@@ -18,6 +18,26 @@ eeuu
 canada
 mexico
 
+[japon]
+japon-[01:10].dominio.es
+japon-[a:j].dominio.es
+[01:10]japon-[a:j].dominio.es
+
+[china]
+japon-[01:10].dominio.es
+japon-[a:j].dominio.es
+[01:10]japon-[a:j].dominio.es
+
+[india]
+japon-[01:10].dominio.es
+japon-[a:j].dominio.es
+[01:10]japon-[a:j].dominio.es
+
+[asia:children]
+japon
+china
+india
+
 [españa]
 españa-[01:10].dominio.es
 españa-[a:j].dominio.es
@@ -37,6 +57,8 @@ francia-[a:j].dominio.es
 españa
 francia
 alemania
+
+
 
 [MUNDO:children]
 europa
