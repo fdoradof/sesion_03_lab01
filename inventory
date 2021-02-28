@@ -78,6 +78,26 @@ nigeria
 kenia
 marruecos
 
+[australia]
+australia-[01:10].dominio.es
+australia-[a:j].dominio.es
+[01:10]australia-[a:j].dominio.es
+
+[fiyi]
+fiyi-[01:10].dominio.es
+fiyi-[a:j].dominio.es
+[01:10]fiyi-[a:j].dominio.es
+
+[samoa]
+samoa-[01:10].dominio.es
+samoa-[a:j].dominio.es
+[01:10]samoa-[a:j].dominio.es
+
+[ocenaia:children]
+australia
+fiyi
+samoa
+
 [MUNDO:children]
 europa
 america
