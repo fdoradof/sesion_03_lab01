@@ -58,7 +58,25 @@ españa
 francia
 alemania
 
+[nigeria]
+nigeria-[01:10].dominio.es
+nigeria-[a:j].dominio.es
+[01:10]nigeria-[a:j].dominio.es
 
+[kenia]
+kenia-[01:10].dominio.es
+kenia-[a:j].dominio.es
+[01:10]kenia-[a:j].dominio.es
+
+[marruecos]
+marruecos-[01:10].dominio.es
+marruecos-[a:j].dominio.es
+[01:10]marruecos-[a:j].dominio.es
+
+[africa:children]
+nigeria
+kenia
+marruecos
 
 [MUNDO:children]
 europa
