@@ -1,4 +1,4 @@
-# sesion_03_lab01
+# Sesion_03_lab01
 Laboratorio de Inventarios en ansible
 
 # Enunciado del Ejercicio
